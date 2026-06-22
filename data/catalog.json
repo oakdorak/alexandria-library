@@ -1,5 +1,863 @@
 [
     {
+        "id": 1782046570,
+        "category": "privacy-wearables",
+        "title": "Identification and control of dynamical systems using neural",
+        "date": "2026-06-21",
+        "learning": "It is demonstrated that neural networks can be used effectively for the identification and control of nonlinear dynamical systems. The emphasis is on models for both identification and control. Static and dynamic backpropagation methods for the adjustment of parameters are discussed. In the models t...",
+        "possibilities": "Sintetizar hallazgos de Neural-Fashion para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781753429,
+            1781733619,
+            1781752902
+        ]
+    },
+    {
+        "id": 1782045668,
+        "category": "privacy-wearables",
+        "title": "TransNFCM: Translation-Based Neural Fashion Compatibility Mo",
+        "date": "2026-06-21",
+        "learning": "Identifying mix-and-match relationships between fashion items is an urgent task in a fashion e-commerce recommender system. It will significantly enhance user experience and satisfaction. However, due to the challenges of inferring the rich yet complicated set of compatibility patterns in a large e-...",
+        "possibilities": "Sintetizar hallazgos de Neural-Fashion para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781735420,
+            1781760632,
+            1781740813
+        ]
+    },
+    {
+        "id": 1782044764,
+        "category": "neuro-sovereignty",
+        "title": "Estatus Legal y Declaración de Soberanía Biofísica: Protocol",
+        "date": "2026-06-21",
+        "learning": "Consolidation of Human Cognitive Engineering (IC-H) Protocols as Prior Art for PIEZO1/2 Mechanotransduction and Biophysical Sovereignty Technical Summary: This document establishes a definitive legal and technical framework for the Human Cognitive Engineering (IC-H) protocols, acting as a formal dec...",
+        "possibilities": "Sintetizar hallazgos de Neuro-Soberanía para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781772136,
+            1781938993,
+            1781757030
+        ]
+    },
+    {
+        "id": 1782043862,
+        "category": "biological-autonomy",
+        "title": "Maxillary sinus floor augmentation with Bio-Oss or Bio-Oss m",
+        "date": "2026-06-21",
+        "learning": "No abstract available.",
+        "possibilities": "Sintetizar hallazgos de Bio-Hacking Local para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781748026,
+            1781959094,
+            1781744385
+        ]
+    },
+    {
+        "id": 1782042956,
+        "category": "neuro-sovereignty",
+        "title": "TRANSICIÓN ENERGÉTICA EN AMÉRICA LATINA Y EL CARIBE (2022)",
+        "date": "2026-06-21",
+        "learning": "Contextualización: El artículo aborda aspectos sensibles, que dificultan la transición energética hacia las energías renovables en América latina y el Caribe. La compleja geopolítica de la región y sus limitaciones confirman, que una visión mercantilista de la energía no ofrece elementos suficientes...",
+        "possibilities": "Sintetizar hallazgos de Neuro-Soberanía para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781944389,
+            1781749300,
+            1781938946
+        ]
+    },
+    {
+        "id": 1782014274,
+        "category": "privacy-wearables",
+        "title": "Overcoming catastrophic forgetting in neural networks (2017)",
+        "date": "2026-06-20",
+        "learning": "The ability to learn tasks in a sequential fashion is crucial to the development of artificial intelligence. Until now neural networks have not been capable of this and it has been widely thought that catastrophic forgetting is an inevitable feature of connectionist models. We show that it is possib...",
+        "possibilities": "Sintetizar hallazgos de Neural-Fashion para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781752902,
+            1781936518,
+            1781754703
+        ]
+    },
+    {
+        "id": 1782013372,
+        "category": "biological-autonomy",
+        "title": "Maxillary sinus floor augmentation with Bio-Oss or Bio-Oss m",
+        "date": "2026-06-20",
+        "learning": "No abstract available.",
+        "possibilities": "Sintetizar hallazgos de Bio-Hacking Local para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781748026,
+            1781959094,
+            1782043862
+        ]
+    },
+    {
+        "id": 1782012470,
+        "category": "privacy-wearables",
+        "title": "Eco-innovation in the textile industry: the strategic import",
+        "date": "2026-06-20",
+        "learning": "Purpose This study aims to investigate the impact of the ethical management of data privacy on the overall reputation of businesses. Design/methodology/approach A conceptual model was proposed and tested. Data were collected from 208 small and medium-sized enterprises (SMEs) in the textile industry ...",
+        "possibilities": "Sintetizar hallazgos de Privacy Textiles para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781939595,
+            1781739216,
+            1781967916
+        ]
+    },
+    {
+        "id": 1781973328,
+        "category": "biological-autonomy",
+        "title": "DIY-Bio – economic, epistemological and ethical implications",
+        "date": "2026-06-20",
+        "learning": "Since 2008, we witness the emergence of the Do-It-Yourself Biology movement, a global movement spreading the use of biotechnology beyond traditional academic and industrial institutions and into the lay public. Practitioners include a broad mix of amateurs, enthusiasts, students, and trained scienti...",
+        "possibilities": "Sintetizar hallazgos de Bio-Hacking Local para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781961589,
+            1781768074,
+            1781963393
+        ]
+    },
+    {
+        "id": 1781972426,
+        "category": "privacy-wearables",
+        "title": "TransNFCM: Translation-Based Neural Fashion Compatibility Mo",
+        "date": "2026-06-20",
+        "learning": "Identifying mix-and-match relationships between fashion items is an urgent task in a fashion e-commerce recommender system. It will significantly enhance user experience and satisfaction. However, due to the challenges of inferring the rich yet complicated set of compatibility patterns in a large e-...",
+        "possibilities": "Sintetizar hallazgos de Neural-Fashion para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781735420,
+            1781760632,
+            1782045668
+        ]
+    },
+    {
+        "id": 1781971524,
+        "category": "sovereign-ai",
+        "title": "FractalNode: A Foundational Architecture for Sovereign AI Id",
+        "date": "2026-06-20",
+        "learning": "FractalNode is a comprehensive technical analysis of a foundational architecture for sovereign AI agent identity, economics, and governance. This 13-section paper covers: Problem space analysis — why current AI agent frameworks fail at identity persistence, economic participation, and behavioral acc...",
+        "possibilities": "Sintetizar hallazgos de Sovereign AI para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781936754,
+            1781965198,
+            1781732616
+        ]
+    },
+    {
+        "id": 1781970622,
+        "category": "privacy-wearables",
+        "title": "Circular Economy and Sustainability of the Clothing and Text",
+        "date": "2026-06-20",
+        "learning": "No abstract available.",
+        "possibilities": "Sintetizar hallazgos de Privacy Textiles para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781967916,
+            1781969720,
+            1781758831
+        ]
+    },
+    {
+        "id": 1781969720,
+        "category": "privacy-wearables",
+        "title": "Circular Economy and Sustainability of the Clothing and Text",
+        "date": "2026-06-20",
+        "learning": "No abstract available.",
+        "possibilities": "Sintetizar hallazgos de Privacy Textiles para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781967916,
+            1781758831,
+            1781970622
+        ]
+    },
+    {
+        "id": 1781968817,
+        "category": "neuro-sovereignty",
+        "title": "TRANSICIÓN ENERGÉTICA EN AMÉRICA LATINA Y EL CARIBE (2022)",
+        "date": "2026-06-20",
+        "learning": "Contextualización: El artículo aborda aspectos sensibles, que dificultan la transición energética hacia las energías renovables en América latina y el Caribe. La compleja geopolítica de la región y sus limitaciones confirman, que una visión mercantilista de la energía no ofrece elementos suficientes...",
+        "possibilities": "Sintetizar hallazgos de Neuro-Soberanía para el Arsenal Ebitengine.",
+        "related_ids": [
+            1782042956,
+            1781944389,
+            1781749300
+        ]
+    },
+    {
+        "id": 1781967916,
+        "category": "privacy-wearables",
+        "title": "Circular Economy and Sustainability of the Clothing and Text",
+        "date": "2026-06-20",
+        "learning": "No abstract available.",
+        "possibilities": "Sintetizar hallazgos de Privacy Textiles para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781969720,
+            1781758831,
+            1781970622
+        ]
+    },
+    {
+        "id": 1781967002,
+        "category": "neuro-sovereignty",
+        "title": "TRANSICIÓN ENERGÉTICA EN AMÉRICA LATINA Y EL CARIBE (2022)",
+        "date": "2026-06-20",
+        "learning": "Contextualización: El artículo aborda aspectos sensibles, que dificultan la transición energética hacia las energías renovables en América latina y el Caribe. La compleja geopolítica de la región y sus limitaciones confirman, que una visión mercantilista de la energía no ofrece elementos suficientes...",
+        "possibilities": "Sintetizar hallazgos de Neuro-Soberanía para el Arsenal Ebitengine.",
+        "related_ids": [
+            1782042956,
+            1781944389,
+            1781749300
+        ]
+    },
+    {
+        "id": 1781966100,
+        "category": "biological-autonomy",
+        "title": "Maxillary sinus floor augmentation with Bio-Oss or Bio-Oss m",
+        "date": "2026-06-20",
+        "learning": "No abstract available.",
+        "possibilities": "Sintetizar hallazgos de Bio-Hacking Local para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781748026,
+            1781959094,
+            1782043862
+        ]
+    },
+    {
+        "id": 1781965198,
+        "category": "sovereign-ai",
+        "title": "FractalNode: A Foundational Architecture for Sovereign AI Id",
+        "date": "2026-06-20",
+        "learning": "FractalNode is a comprehensive technical analysis of a foundational architecture for sovereign AI agent identity, economics, and governance. This 13-section paper covers: Problem space analysis — why current AI agent frameworks fail at identity persistence, economic participation, and behavioral acc...",
+        "possibilities": "Sintetizar hallazgos de Sovereign AI para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781971524,
+            1781936754,
+            1781732616
+        ]
+    },
+    {
+        "id": 1781964296,
+        "category": "privacy-wearables",
+        "title": "TransNFCM: Translation-Based Neural Fashion Compatibility Mo",
+        "date": "2026-06-20",
+        "learning": "Identifying mix-and-match relationships between fashion items is an urgent task in a fashion e-commerce recommender system. It will significantly enhance user experience and satisfaction. However, due to the challenges of inferring the rich yet complicated set of compatibility patterns in a large e-...",
+        "possibilities": "Sintetizar hallazgos de Neural-Fashion para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781735420,
+            1781760632,
+            1782045668
+        ]
+    },
+    {
+        "id": 1781963393,
+        "category": "biological-autonomy",
+        "title": "Source Hacking: Media Manipulation in Practice (2019)",
+        "date": "2026-06-20",
+        "learning": "No abstract available.",
+        "possibilities": "Sintetizar hallazgos de Bio-Hacking Local para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781740754,
+            1781937745,
+            1781937144
+        ]
+    },
+    {
+        "id": 1781962491,
+        "category": "neuro-sovereignty",
+        "title": "Estatus Legal y Declaración de Soberanía Biofísica: Protocol",
+        "date": "2026-06-20",
+        "learning": "Consolidation of Human Cognitive Engineering (IC-H) Protocols as Prior Art for PIEZO1/2 Mechanotransduction and Biophysical Sovereignty Technical Summary: This document establishes a definitive legal and technical framework for the Human Cognitive Engineering (IC-H) protocols, acting as a formal dec...",
+        "possibilities": "Sintetizar hallazgos de Neuro-Soberanía para el Arsenal Ebitengine.",
+        "related_ids": [
+            1782044764,
+            1781772136,
+            1781938993
+        ]
+    },
+    {
+        "id": 1781961589,
+        "category": "biological-autonomy",
+        "title": "DIY-Bio – economic, epistemological and ethical implications",
+        "date": "2026-06-20",
+        "learning": "Since 2008, we witness the emergence of the Do-It-Yourself Biology movement, a global movement spreading the use of biotechnology beyond traditional academic and industrial institutions and into the lay public. Practitioners include a broad mix of amateurs, enthusiasts, students, and trained scienti...",
+        "possibilities": "Sintetizar hallazgos de Bio-Hacking Local para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781768074,
+            1781973328,
+            1781963393
+        ]
+    },
+    {
+        "id": 1781959996,
+        "category": "neuro-sovereignty",
+        "title": "Estatus Legal y Declaración de Soberanía Biofísica: Protocol",
+        "date": "2026-06-20",
+        "learning": "Consolidation of Human Cognitive Engineering (IC-H) Protocols as Prior Art for PIEZO1/2 Mechanotransduction and Biophysical Sovereignty Technical Summary: This document establishes a definitive legal and technical framework for the Human Cognitive Engineering (IC-H) protocols, acting as a formal dec...",
+        "possibilities": "Sintetizar hallazgos de Neuro-Soberanía para el Arsenal Ebitengine.",
+        "related_ids": [
+            1782044764,
+            1781772136,
+            1781938993
+        ]
+    },
+    {
+        "id": 1781959094,
+        "category": "biological-autonomy",
+        "title": "Maxillary sinus floor augmentation with Bio-Oss or Bio-Oss m",
+        "date": "2026-06-20",
+        "learning": "No abstract available.",
+        "possibilities": "Sintetizar hallazgos de Bio-Hacking Local para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781748026,
+            1782043862,
+            1781744385
+        ]
+    },
+    {
+        "id": 1781958192,
+        "category": "privacy-wearables",
+        "title": "\"The Rule of Love\": Wife Beating as Prerogative and Privacy",
+        "date": "2026-06-20",
+        "learning": "The Anglo-American common law originally provided that a husband, as master of his household, could subject his wife to corporal punishment or \"chastisement\" so long as he did not inflict permanent injury upon her. During the nineteenth century, an era of feminist agitation for reform of marriage la...",
+        "possibilities": "Sintetizar hallazgos de Privacy Textiles para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781747499,
+            1781751628,
+            1781744424
+        ]
+    },
+    {
+        "id": 1781957276,
+        "category": "privacy-wearables",
+        "title": "Circular Economy and Sustainability of the Clothing and Text",
+        "date": "2026-06-20",
+        "learning": "No abstract available.",
+        "possibilities": "Sintetizar hallazgos de Privacy Textiles para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781967916,
+            1781969720,
+            1781758831
+        ]
+    },
+    {
+        "id": 1781945689,
+        "category": "neuro-sovereignty",
+        "title": "Estatus Legal y Declaración de Soberanía Biofísica: Protocol",
+        "date": "2026-06-20",
+        "learning": "Consolidation of Human Cognitive Engineering (IC-H) Protocols as Prior Art for PIEZO1/2 Mechanotransduction and Biophysical Sovereignty Technical Summary: This document establishes a definitive legal and technical framework for the Human Cognitive Engineering (IC-H) protocols, acting as a formal dec...",
+        "possibilities": "Sintetizar hallazgos de Neuro-Soberanía para el Arsenal Ebitengine.",
+        "related_ids": [
+            1782044764,
+            1781772136,
+            1781938993
+        ]
+    },
+    {
+        "id": 1781944389,
+        "category": "neuro-sovereignty",
+        "title": "TRANSICIÓN ENERGÉTICA EN AMÉRICA LATINA Y EL CARIBE (2022)",
+        "date": "2026-06-20",
+        "learning": "Contextualización: El artículo aborda aspectos sensibles, que dificultan la transición energética hacia las energías renovables en América latina y el Caribe. La compleja geopolítica de la región y sus limitaciones confirman, que una visión mercantilista de la energía no ofrece elementos suficientes...",
+        "possibilities": "Sintetizar hallazgos de Neuro-Soberanía para el Arsenal Ebitengine.",
+        "related_ids": [
+            1782042956,
+            1781749300,
+            1781938946
+        ]
+    },
+    {
+        "id": 1781943789,
+        "category": "privacy-wearables",
+        "title": "TransNFCM: Translation-Based Neural Fashion Compatibility Mo",
+        "date": "2026-06-20",
+        "learning": "Identifying mix-and-match relationships between fashion items is an urgent task in a fashion e-commerce recommender system. It will significantly enhance user experience and satisfaction. However, due to the challenges of inferring the rich yet complicated set of compatibility patterns in a large e-...",
+        "possibilities": "Sintetizar hallazgos de Neural-Fashion para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781735420,
+            1781760632,
+            1782045668
+        ]
+    },
+    {
+        "id": 1781939595,
+        "category": "privacy-wearables",
+        "title": "Eco-innovation in the textile industry: the strategic import",
+        "date": "2026-06-20",
+        "learning": "Purpose This study aims to investigate the impact of the ethical management of data privacy on the overall reputation of businesses. Design/methodology/approach A conceptual model was proposed and tested. Data were collected from 208 small and medium-sized enterprises (SMEs) in the textile industry ...",
+        "possibilities": "Sintetizar hallazgos de Privacy Textiles para el Arsenal Ebitengine.",
+        "related_ids": [
+            1782012470,
+            1781739216,
+            1781967916
+        ]
+    },
+    {
+        "id": 1781938993,
+        "category": "neuro-sovereignty",
+        "title": "Estatus Legal y Declaración de Soberanía Biofísica: Protocol",
+        "date": "2026-06-20",
+        "learning": "Consolidation of Human Cognitive Engineering (IC-H) Protocols as Prior Art for PIEZO1/2 Mechanotransduction and Biophysical Sovereignty Technical Summary: This document establishes a definitive legal and technical framework for the Human Cognitive Engineering (IC-H) protocols, acting as a formal dec...",
+        "possibilities": "Sintetizar hallazgos de Neuro-Soberanía para el Arsenal Ebitengine.",
+        "related_ids": [
+            1782044764,
+            1781772136,
+            1781757030
+        ]
+    },
+    {
+        "id": 1781938946,
+        "category": "neuro-sovereignty",
+        "title": "TRANSICIÓN ENERGÉTICA EN AMÉRICA LATINA Y EL CARIBE (2022)",
+        "date": "2026-06-20",
+        "learning": "Contextualización: El artículo aborda aspectos sensibles, que dificultan la transición energética hacia las energías renovables en América latina y el Caribe. La compleja geopolítica de la región y sus limitaciones confirman, que una visión mercantilista de la energía no ofrece elementos suficientes...",
+        "possibilities": "Sintetizar hallazgos de Neuro-Soberanía para el Arsenal Ebitengine.",
+        "related_ids": [
+            1782042956,
+            1781944389,
+            1781749300
+        ]
+    },
+    {
+        "id": 1781938345,
+        "category": "sovereign-ai",
+        "title": "Sovereign AI in 2025 (2025)",
+        "date": "2026-06-20",
+        "learning": "Abstract At the London Tech Week event in early June, Nvidia CEO Jensen Huang praised the UK as the ‘envy of the world’ when it comes to AI researchers, but he also criticised it as the largest AI ecosystem in the world without its own infrastructure. The criticism is somewhat self-serving: when the...",
+        "possibilities": "Sintetizar hallazgos de Sovereign AI para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781748026,
+            1781959094,
+            1782043862
+        ]
+    },
+    {
+        "id": 1781937745,
+        "category": "biological-autonomy",
+        "title": "Source Hacking: Media Manipulation in Practice (2019)",
+        "date": "2026-06-20",
+        "learning": "No abstract available.",
+        "possibilities": "Sintetizar hallazgos de Bio-Hacking Local para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781963393,
+            1781740754,
+            1781937144
+        ]
+    },
+    {
+        "id": 1781937144,
+        "category": "biological-autonomy",
+        "title": "Source Hacking: Media Manipulation in Practice (2019)",
+        "date": "2026-06-20",
+        "learning": "No abstract available.",
+        "possibilities": "Sintetizar hallazgos de Bio-Hacking Local para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781963393,
+            1781740754,
+            1781937745
+        ]
+    },
+    {
+        "id": 1781936754,
+        "category": "sovereign-ai",
+        "title": "FractalNode: A Foundational Architecture for Sovereign AI Id",
+        "date": "2026-06-20",
+        "learning": "FractalNode is a comprehensive technical analysis of a foundational architecture for sovereign AI agent identity, economics, and governance. This 13-section paper covers: Problem space analysis — why current AI agent frameworks fail at identity persistence, economic participation, and behavioral acc...",
+        "possibilities": "Sintetizar hallazgos de Sovereign AI para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781971524,
+            1781965198,
+            1781732616
+        ]
+    },
+    {
+        "id": 1781936518,
+        "category": "privacy-wearables",
+        "title": "Overcoming catastrophic forgetting in neural networks (2017)",
+        "date": "2026-06-20",
+        "learning": "The ability to learn tasks in a sequential fashion is crucial to the development of artificial intelligence. Until now neural networks have not been capable of this and it has been widely thought that catastrophic forgetting is an inevitable feature of connectionist models. We show that it is possib...",
+        "possibilities": "Sintetizar hallazgos de Neural-Fashion para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781752902,
+            1781754703,
+            1782014274
+        ]
+    },
+    {
+        "id": 1781772136,
+        "category": "neuro-sovereignty",
+        "title": "Estatus Legal y Declaración de Soberanía Biofísica: Protocol",
+        "date": "2026-06-18",
+        "learning": "Consolidation of Human Cognitive Engineering (IC-H) Protocols as Prior Art for PIEZO1/2 Mechanotransduction and Biophysical Sovereignty Technical Summary: This document establishes a definitive legal and technical framework for the Human Cognitive Engineering (IC-H) protocols, acting as a formal dec...",
+        "possibilities": "Sintetizar hallazgos de Neuro-Soberanía para el Arsenal Ebitengine.",
+        "related_ids": [
+            1782044764,
+            1781938993,
+            1781757030
+        ]
+    },
+    {
+        "id": 1781770335,
+        "category": "sovereign-ai",
+        "title": "Recursive Yoked Cognitive Nexus (RYCN): The Inversion Method",
+        "date": "2026-06-18",
+        "learning": "This white paper introduces the Recursive Yoked Cognitive Nexus (RYCN), a novel cognitive architecture designed to address identity fragmentation, emotional inconsistency, and long-horizon instability in modern AI systems. Unlike traditional approaches that engineer system behaviour first and add pe...",
+        "possibilities": "Sintetizar hallazgos de Sovereign AI para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781732616,
+            1781766037,
+            1781971524
+        ]
+    },
+    {
+        "id": 1781768074,
+        "category": "biological-autonomy",
+        "title": "DIY-Bio – economic, epistemological and ethical implications",
+        "date": "2026-06-18",
+        "learning": "Since 2008, we witness the emergence of the Do-It-Yourself Biology movement, a global movement spreading the use of biotechnology beyond traditional academic and industrial institutions and into the lay public. Practitioners include a broad mix of amateurs, enthusiasts, students, and trained scienti...",
+        "possibilities": "Sintetizar hallazgos de Bio-Hacking Local para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781961589,
+            1781973328,
+            1781963393
+        ]
+    },
+    {
+        "id": 1781766037,
+        "category": "sovereign-ai",
+        "title": "Recursive Yoked Cognitive Nexus (RYCN): The Inversion Method",
+        "date": "2026-06-18",
+        "learning": "This white paper introduces the Recursive Yoked Cognitive Nexus (RYCN), a novel cognitive architecture designed to address identity fragmentation, emotional inconsistency, and long-horizon instability in modern AI systems. Unlike traditional approaches that engineer system behaviour first and add pe...",
+        "possibilities": "Sintetizar hallazgos de Sovereign AI para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781732616,
+            1781770335,
+            1781971524
+        ]
+    },
+    {
+        "id": 1781764236,
+        "category": "privacy-wearables",
+        "title": "\"The Rule of Love\": Wife Beating as Prerogative and Privacy",
+        "date": "2026-06-18",
+        "learning": "The Anglo-American common law originally provided that a husband, as master of his household, could subject his wife to corporal punishment or \"chastisement\" so long as he did not inflict permanent injury upon her. During the nineteenth century, an era of feminist agitation for reform of marriage la...",
+        "possibilities": "Sintetizar hallazgos de Privacy Textiles para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781747499,
+            1781751628,
+            1781744424
+        ]
+    },
+    {
+        "id": 1781762435,
+        "category": "privacy-wearables",
+        "title": "\"The Rule of Love\": Wife Beating as Prerogative and Privacy",
+        "date": "2026-06-18",
+        "learning": "The Anglo-American common law originally provided that a husband, as master of his household, could subject his wife to corporal punishment or \"chastisement\" so long as he did not inflict permanent injury upon her. During the nineteenth century, an era of feminist agitation for reform of marriage la...",
+        "possibilities": "Sintetizar hallazgos de Privacy Textiles para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781747499,
+            1781751628,
+            1781744424
+        ]
+    },
+    {
+        "id": 1781760632,
+        "category": "privacy-wearables",
+        "title": "TransNFCM: Translation-Based Neural Fashion Compatibility Mo",
+        "date": "2026-06-17",
+        "learning": "Identifying mix-and-match relationships between fashion items is an urgent task in a fashion e-commerce recommender system. It will significantly enhance user experience and satisfaction. However, due to the challenges of inferring the rich yet complicated set of compatibility patterns in a large e-...",
+        "possibilities": "Sintetizar hallazgos de Neural-Fashion para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781735420,
+            1782045668,
+            1781740813
+        ]
+    },
+    {
+        "id": 1781758831,
+        "category": "privacy-wearables",
+        "title": "Circular Economy and Sustainability of the Clothing and Text",
+        "date": "2026-06-17",
+        "learning": "No abstract available.",
+        "possibilities": "Sintetizar hallazgos de Privacy Textiles para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781967916,
+            1781969720,
+            1781970622
+        ]
+    },
+    {
+        "id": 1781757030,
+        "category": "neuro-sovereignty",
+        "title": "Estatus Legal y Declaración de Soberanía Biofísica: Protocol",
+        "date": "2026-06-17",
+        "learning": "Consolidation of Human Cognitive Engineering (IC-H) Protocols as Prior Art for PIEZO1/2 Mechanotransduction and Biophysical Sovereignty Technical Summary: This document establishes a definitive legal and technical framework for the Human Cognitive Engineering (IC-H) protocols, acting as a formal dec...",
+        "possibilities": "Sintetizar hallazgos de Neuro-Soberanía para el Arsenal Ebitengine.",
+        "related_ids": [
+            1782044764,
+            1781772136,
+            1781938993
+        ]
+    },
+    {
+        "id": 1781755230,
+        "category": "neuro-sovereignty",
+        "title": "Estatus Legal y Declaración de Soberanía Biofísica: Protocol",
+        "date": "2026-06-17",
+        "learning": "Consolidation of Human Cognitive Engineering (IC-H) Protocols as Prior Art for PIEZO1/2 Mechanotransduction and Biophysical Sovereignty Technical Summary: This document establishes a definitive legal and technical framework for the Human Cognitive Engineering (IC-H) protocols, acting as a formal dec...",
+        "possibilities": "Sintetizar hallazgos de Neuro-Soberanía para el Arsenal Ebitengine.",
+        "related_ids": [
+            1782044764,
+            1781772136,
+            1781938993
+        ]
+    },
+    {
+        "id": 1781754703,
+        "category": "privacy-wearables",
+        "title": "Overcoming catastrophic forgetting in neural networks (2017)",
+        "date": "2026-06-17",
+        "learning": "The ability to learn tasks in a sequential fashion is crucial to the development of artificial intelligence. Until now neural networks have not been capable of this and it has been widely thought that catastrophic forgetting is an inevitable feature of connectionist models. We show that it is possib...",
+        "possibilities": "Sintetizar hallazgos de Neural-Fashion para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781752902,
+            1781936518,
+            1782014274
+        ]
+    },
+    {
+        "id": 1781753429,
+        "category": "privacy-wearables",
+        "title": "Identification and control of dynamical systems using neural",
+        "date": "2026-06-17",
+        "learning": "It is demonstrated that neural networks can be used effectively for the identification and control of nonlinear dynamical systems. The emphasis is on models for both identification and control. Static and dynamic backpropagation methods for the adjustment of parameters are discussed. In the models t...",
+        "possibilities": "Sintetizar hallazgos de Neural-Fashion para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781733619,
+            1782046570,
+            1781752902
+        ]
+    },
+    {
+        "id": 1781752902,
+        "category": "privacy-wearables",
+        "title": "Overcoming catastrophic forgetting in neural networks (2017)",
+        "date": "2026-06-17",
+        "learning": "The ability to learn tasks in a sequential fashion is crucial to the development of artificial intelligence. Until now neural networks have not been capable of this and it has been widely thought that catastrophic forgetting is an inevitable feature of connectionist models. We show that it is possib...",
+        "possibilities": "Sintetizar hallazgos de Neural-Fashion para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781936518,
+            1781754703,
+            1782014274
+        ]
+    },
+    {
+        "id": 1781751628,
+        "category": "privacy-wearables",
+        "title": "\"The Rule of Love\": Wife Beating as Prerogative and Privacy",
+        "date": "2026-06-17",
+        "learning": "The Anglo-American common law originally provided that a husband, as master of his household, could subject his wife to corporal punishment or \"chastisement\" so long as he did not inflict permanent injury upon her. During the nineteenth century, an era of feminist agitation for reform of marriage la...",
+        "possibilities": "Sintetizar hallazgos de Privacy Textiles para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781747499,
+            1781744424,
+            1781762435
+        ]
+    },
+    {
+        "id": 1781751101,
+        "category": "privacy-wearables",
+        "title": "TransNFCM: Translation-Based Neural Fashion Compatibility Mo",
+        "date": "2026-06-17",
+        "learning": "Identifying mix-and-match relationships between fashion items is an urgent task in a fashion e-commerce recommender system. It will significantly enhance user experience and satisfaction. However, due to the challenges of inferring the rich yet complicated set of compatibility patterns in a large e-...",
+        "possibilities": "Sintetizar hallazgos de Neural-Fashion para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781735420,
+            1781760632,
+            1782045668
+        ]
+    },
+    {
+        "id": 1781749827,
+        "category": "biological-autonomy",
+        "title": "Maxillary sinus floor augmentation with Bio-Oss or Bio-Oss m",
+        "date": "2026-06-17",
+        "learning": "No abstract available.",
+        "possibilities": "Sintetizar hallazgos de Bio-Hacking Local para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781748026,
+            1781959094,
+            1782043862
+        ]
+    },
+    {
+        "id": 1781749300,
+        "category": "neuro-sovereignty",
+        "title": "TRANSICIÓN ENERGÉTICA EN AMÉRICA LATINA Y EL CARIBE (2022)",
+        "date": "2026-06-17",
+        "learning": "Contextualización: El artículo aborda aspectos sensibles, que dificultan la transición energética hacia las energías renovables en América latina y el Caribe. La compleja geopolítica de la región y sus limitaciones confirman, que una visión mercantilista de la energía no ofrece elementos suficientes...",
+        "possibilities": "Sintetizar hallazgos de Neuro-Soberanía para el Arsenal Ebitengine.",
+        "related_ids": [
+            1782042956,
+            1781944389,
+            1781938946
+        ]
+    },
+    {
+        "id": 1781748026,
+        "category": "biological-autonomy",
+        "title": "Maxillary sinus floor augmentation with Bio-Oss or Bio-Oss m",
+        "date": "2026-06-17",
+        "learning": "No abstract available.",
+        "possibilities": "Sintetizar hallazgos de Bio-Hacking Local para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781959094,
+            1782043862,
+            1781744385
+        ]
+    },
+    {
+        "id": 1781747499,
+        "category": "privacy-wearables",
+        "title": "\"The Rule of Love\": Wife Beating as Prerogative and Privacy",
+        "date": "2026-06-17",
+        "learning": "The Anglo-American common law originally provided that a husband, as master of his household, could subject his wife to corporal punishment or \"chastisement\" so long as he did not inflict permanent injury upon her. During the nineteenth century, an era of feminist agitation for reform of marriage la...",
+        "possibilities": "Sintetizar hallazgos de Privacy Textiles para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781751628,
+            1781744424,
+            1781762435
+        ]
+    },
+    {
+        "id": 1781746225,
+        "category": "biological-autonomy",
+        "title": "Maxillary sinus floor augmentation with Bio-Oss or Bio-Oss m",
+        "date": "2026-06-17",
+        "learning": "No abstract available.",
+        "possibilities": "Sintetizar hallazgos de Bio-Hacking Local para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781748026,
+            1781959094,
+            1782043862
+        ]
+    },
+    {
+        "id": 1781746186,
+        "category": "biological-autonomy",
+        "title": "Maxillary sinus floor augmentation with Bio-Oss or Bio-Oss m",
+        "date": "2026-06-17",
+        "learning": "No abstract available.",
+        "possibilities": "Sintetizar hallazgos de Bio-Hacking Local para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781748026,
+            1781959094,
+            1782043862
+        ]
+    },
+    {
+        "id": 1781744424,
+        "category": "privacy-wearables",
+        "title": "\"The Rule of Love\": Wife Beating as Prerogative and Privacy",
+        "date": "2026-06-17",
+        "learning": "The Anglo-American common law originally provided that a husband, as master of his household, could subject his wife to corporal punishment or \"chastisement\" so long as he did not inflict permanent injury upon her. During the nineteenth century, an era of feminist agitation for reform of marriage la...",
+        "possibilities": "Sintetizar hallazgos de Privacy Textiles para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781747499,
+            1781751628,
+            1781762435
+        ]
+    },
+    {
+        "id": 1781744385,
+        "category": "biological-autonomy",
+        "title": "Maxillary sinus floor augmentation with Bio-Oss or Bio-Oss m",
+        "date": "2026-06-17",
+        "learning": "No abstract available.",
+        "possibilities": "Sintetizar hallazgos de Bio-Hacking Local para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781748026,
+            1781959094,
+            1782043862
+        ]
+    },
+    {
+        "id": 1781742623,
+        "category": "privacy-wearables",
+        "title": "\"The Rule of Love\": Wife Beating as Prerogative and Privacy",
+        "date": "2026-06-17",
+        "learning": "The Anglo-American common law originally provided that a husband, as master of his household, could subject his wife to corporal punishment or \"chastisement\" so long as he did not inflict permanent injury upon her. During the nineteenth century, an era of feminist agitation for reform of marriage la...",
+        "possibilities": "Sintetizar hallazgos de Privacy Textiles para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781747499,
+            1781751628,
+            1781744424
+        ]
+    },
+    {
+        "id": 1781742584,
+        "category": "sovereign-ai",
+        "title": "Researching: Sovereign AI",
+        "date": "2026-06-17",
+        "learning": "Failed to execute dynamic research: Command '['python3', '/Users/robbitcarrot/search_openalex.py', '--query', 'Sovereign AI', '--limit', '3']' timed out after 30 seconds",
+        "possibilities": "Continue monitoring scientific feeds.",
+        "related_ids": [
+            1781732490,
+            1781971524,
+            1781936754
+        ]
+    },
+    {
+        "id": 1781740813,
+        "category": "privacy-wearables",
+        "title": "TransNFCM: Translation-Based Neural Fashion Compatibility Mo",
+        "date": "2026-06-17",
+        "learning": "Identifying mix-and-match relationships between fashion items is an urgent task in a fashion e-commerce recommender system. It will significantly enhance user experience and satisfaction. However, due to the challenges of inferring the rich yet complicated set of compatibility patterns in a large e-...",
+        "possibilities": "Sintetizar hallazgos de Neural-Fashion para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781735420,
+            1781760632,
+            1782045668
+        ]
+    },
+    {
+        "id": 1781740754,
+        "category": "biological-autonomy",
+        "title": "Source Hacking: Media Manipulation in Practice (2019)",
+        "date": "2026-06-17",
+        "learning": "No abstract available.",
+        "possibilities": "Sintetizar hallazgos de Bio-Hacking Local para el Arsenal Ebitengine.",
+        "related_ids": [
+            1781963393,
+            1781937745,
+            1781937144
+        ]
+    },
+    {
+        "id": 1781739216,
+        "category": "privacy-wearables",
+        "title": "Eco-innovation in the textile industry: the strategic import",
+        "date": "2026-06-17",
+        "learning": "Purpose This study aims to investigate the impact of the ethical management of data privacy on the overall reputation of businesses. Design/methodology/approach A conceptual model was proposed and tested. Data were collected from 208 small and medium-sized enterprises (SMEs) in the textile industry ...",
+        "possibilities": "Sintetizar hallazgos de Privacy Textiles para el Arsenal Ebitengine.",
+        "related_ids": [
+            1782012470,
+            1781939595,
+            1781967916
+        ]
+    },
+    {
+        "id": 1781739011,
+        "category": "neuro-sovereignty",
+        "title": "Estatus Legal y Declaración de Soberanía Biofísica: Protocol",
+        "date": "2026-06-17",
+        "learning": "Consolidation of Human Cognitive Engineering (IC-H) Protocols as Prior Art for PIEZO1/2 Mechanotransduction and Biophysical Sovereignty Technical Summary: This document establishes a definitive legal and technical framework for the Human Cognitive Engineering (IC-H) protocols, acting as a formal dec...",
+        "possibilities": "Sintetizar hallazgos de Neuro-Soberanía para el Arsenal Ebitengine.",
+        "related_ids": [
+            1782044764,
+            1781772136,
+            1781938993
+        ]
+    },
+    {
         "id": 1781737414,
         "category": "neuro-sovereignty",
         "title": "Estatus Legal y Declaración de Soberanía Biofísica: Protocol",
@@ -7,9 +865,9 @@
         "learning": "Consolidation of Human Cognitive Engineering (IC-H) Protocols as Prior Art for PIEZO1/2 Mechanotransduction and Biophysical Sovereignty Technical Summary: This document establishes a definitive legal and technical framework for the Human Cognitive Engineering (IC-H) protocols, acting as a formal dec...",
         "possibilities": "Sintetizar hallazgos de Neuro-Soberanía para el Arsenal Ebitengine.",
         "related_ids": [
-            1781733416,
-            1781735217,
-            1781737210
+            1782044764,
+            1781772136,
+            1781938993
         ]
     },
     {
@@ -20,9 +878,9 @@
         "learning": "Consolidation of Human Cognitive Engineering (IC-H) Protocols as Prior Art for PIEZO1/2 Mechanotransduction and Biophysical Sovereignty Technical Summary: This document establishes a definitive legal and technical framework for the Human Cognitive Engineering (IC-H) protocols, acting as a formal dec...",
         "possibilities": "Sintetizar hallazgos de Neuro-Soberanía para el Arsenal Ebitengine.",
         "related_ids": [
-            1781733416,
-            1781735217,
-            1781737414
+            1782044764,
+            1781772136,
+            1781938993
         ]
     },
     {
@@ -33,9 +891,9 @@
         "learning": "Identifying mix-and-match relationships between fashion items is an urgent task in a fashion e-commerce recommender system. It will significantly enhance user experience and satisfaction. However, due to the challenges of inferring the rich yet complicated set of compatibility patterns in a large e-...",
         "possibilities": "Sintetizar hallazgos de Neural-Fashion para el Arsenal Ebitengine.",
         "related_ids": [
-            1781733619,
-            1781732802,
-            1781732616
+            1781760632,
+            1782045668,
+            1781740813
         ]
     },
     {
@@ -46,9 +904,9 @@
         "learning": "Consolidation of Human Cognitive Engineering (IC-H) Protocols as Prior Art for PIEZO1/2 Mechanotransduction and Biophysical Sovereignty Technical Summary: This document establishes a definitive legal and technical framework for the Human Cognitive Engineering (IC-H) protocols, acting as a formal dec...",
         "possibilities": "Sintetizar hallazgos de Neuro-Soberanía para el Arsenal Ebitengine.",
         "related_ids": [
-            1781733416,
-            1781737414,
-            1781737210
+            1782044764,
+            1781772136,
+            1781938993
         ]
     },
     {
@@ -59,9 +917,9 @@
         "learning": "It is demonstrated that neural networks can be used effectively for the identification and control of nonlinear dynamical systems. The emphasis is on models for both identification and control. Static and dynamic backpropagation methods for the adjustment of parameters are discussed. In the models t...",
         "possibilities": "Sintetizar hallazgos de Neural-Fashion para el Arsenal Ebitengine.",
         "related_ids": [
-            1781735420,
-            1781732802,
-            1781732616
+            1781753429,
+            1782046570,
+            1781752902
         ]
     },
     {
@@ -72,9 +930,9 @@
         "learning": "Consolidation of Human Cognitive Engineering (IC-H) Protocols as Prior Art for PIEZO1/2 Mechanotransduction and Biophysical Sovereignty Technical Summary: This document establishes a definitive legal and technical framework for the Human Cognitive Engineering (IC-H) protocols, acting as a formal dec...",
         "possibilities": "Sintetizar hallazgos de Neuro-Soberanía para el Arsenal Ebitengine.",
         "related_ids": [
-            1781735217,
-            1781737414,
-            1781737210
+            1782044764,
+            1781772136,
+            1781938993
         ]
     },
     {
@@ -85,9 +943,9 @@
         "learning": "No abstract available.",
         "possibilities": "Sintetizar hallazgos de Bio-Hacking Local para el Arsenal Ebitengine.",
         "related_ids": [
-            1781733416,
-            1781735217,
-            1781737414
+            1781748026,
+            1781959094,
+            1782043862
         ]
     },
     {
@@ -98,9 +956,9 @@
         "learning": "This white paper introduces the Recursive Yoked Cognitive Nexus (RYCN), a novel cognitive architecture designed to address identity fragmentation, emotional inconsistency, and long-horizon instability in modern AI systems. Unlike traditional approaches that engineer system behaviour first and add pe...",
         "possibilities": "Sintetizar hallazgos de Sovereign AI para el Arsenal Ebitengine.",
         "related_ids": [
-            1781733416,
-            1781735217,
-            1781737414
+            1781770335,
+            1781766037,
+            1781971524
         ]
     },
     {
@@ -111,9 +969,9 @@
         "learning": "No specific findings in this cycle.",
         "possibilities": "Continue monitoring scientific feeds.",
         "related_ids": [
-            1781732616,
-            1781733416,
-            1781735217
+            1781742584,
+            1781971524,
+            1781936754
         ]
     },
     {

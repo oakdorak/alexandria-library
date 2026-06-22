@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+.directory
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+.turbovec_env/
+
+# Key Backups and logs
+*.log
+.legion_env
+.env
+.env.*
+!*.example
